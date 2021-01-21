@@ -9,7 +9,9 @@ Just clone and use.
 
 ```bash
 sudo git clone https://github.com/MRK4/pastebingenerator
+
 cd pastebingenerator
+
 python3 main.py
 ```
 
